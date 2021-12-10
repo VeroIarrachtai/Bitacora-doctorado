@@ -1,0 +1,19 @@
+https://redib.org/Record/oai_articulo2760599-ozone-concentrations-situ-mexico-city-basin-forests-influence-elevation
+
+https://revistas.chapingo.mx/forestales/?section=articles&subsec=issues&numero=34&articulo=460
+
+https://conbio.onlinelibrary.wiley.com/doi/epdf/10.1111/cobi.13306
+
+https://science.sciencemag.org/content/309/5743/2010.full
+
+https://github.com/emmastrand/EmmaStrand_Notebook
+
+
+# DESeq2
+http://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html
+
+# Estadística Krustall-Wallis
+https://support.minitab.com/es-mx/minitab/18/help-and-how-to/statistics/nonparametrics/how-to/kruskal-wallis-test/before-you-start/overview/
+
+# Metilación work
+https://www.thermofisher.com/mx/es/home/life-science/sequencing/epigenetic-sequencing/methylation-analysis/methylation-analysis.html
